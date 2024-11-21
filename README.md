@@ -1,10 +1,10 @@
 # Welcome to Saiful's Code Haven! ❄️
 
-Hey there, fellow coders! I'm Saiful, a passionate software engineering student diving deep into the realms of code. Join me on this exhilarating journey through the binary landscapes of ones and zeros. 🚀
+Hey there, fellow coders! I'm Saiful, a passionate data science student diving deep into the realms of code. Join me on this exhilarating journey through the binary landscapes of ones and zeros. 🚀
 
 ## About Me
 
-🎓 Currently navigating the challenging seas of my second year in university, pursuing a degree in software engineering. The struggle is real, but so is the passion for crafting elegant code.
+🎓 Currently navigating the challenging seas of my third year in university, pursuing a degree in software engineering. The struggle is real, but so is the passion for crafting elegant code.
 
 💡 Balancing the delicate dance between studying hard and hustling for that extra life. Because who said you can't code your way to success?
 
