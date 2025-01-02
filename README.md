@@ -4,7 +4,7 @@ Hey there, fellow coders! I'm Saiful, a passionate data science student diving d
 
 ## About Me
 
-🎓 Currently navigating the challenging seas of my third year in university, pursuing a degree in software engineering. The struggle is real, but so is the passion for crafting elegant code.
+🎓 Currently navigating the challenging seas of my third year in university, pursuing a degree in Data Science. The struggle is real, but so is the passion for crafting elegant code.
 
 💡 Balancing the delicate dance between studying hard and hustling for that extra life. Because who said you can't code your way to success?
 
